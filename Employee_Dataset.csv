@@ -1,0 +1,1001 @@
+Age,Experience,Education,Department,Location,Company Type,Performance Score,Last Hike %,Salary
+56,32,Master’s,HR,New York,MNC,4.7,14.1,8611.0
+46,19,Master’s,HR,Los Angeles,Startup,2.4,6.0,6563.0
+32,11,Bachelor’s,IT,Chicago,Startup,2.2,8.5,5176.0
+60,0,Master’s,Sales,Los Angeles,MNC,1.8,8.9,3577.0
+25,9,Master’s,Sales,Los Angeles,Startup,3.7,4.8,5542.0
+38,13,Bachelor’s,Sales,New York,MNC,2.3,7.3,4495.0
+56,37,Bachelor’s,HR,Chicago,Startup,5.0,19.2,8369.0
+36,20,Master’s,IT,Chicago,Startup,2.3,3.4,5920.0
+40,10,Master’s,Sales,Los Angeles,MNC,2.6,1.9,5216.0
+28,12,Master’s,IT,Chicago,MNC,3.4,5.6,6247.0
+28,12,Master’s,HR,Los Angeles,Startup,4.2,11.2,5938.0
+41,2,Bachelor’s,Sales,Los Angeles,Startup,2.9,0.8,3896.0
+53,32,Master’s,IT,New York,Startup,2.7,6.9,7197.0
+57,5,Bachelor’s,HR,New York,Startup,5.0,19.4,5229.0
+41,9,Bachelor’s,IT,New York,Startup,1.0,3.6,4191.0
+20,4,High School,Sales,Los Angeles,Startup,4.6,16.5,4836.0
+39,22,Bachelor’s,Sales,Chicago,MNC,1.6,4.3,5703.0
+19,3,Bachelor’s,HR,New York,MNC,4.1,17.8,4723.0
+41,1,Bachelor’s,HR,Chicago,MNC,3.5,6.7,3929.0
+61,12,Master’s,HR,New York,Startup,2.4,3.2,5505.0
+47,31,Bachelor’s,IT,New York,Startup,4.5,16.8,8087.0
+55,1,Bachelor’s,IT,Los Angeles,Startup,1.1,8.7,2714.0
+19,3,Bachelor’s,IT,New York,MNC,1.9,2.4,3337.0
+38,0,Bachelor’s,HR,New York,MNC,3.3,9.8,3737.0
+50,34,Bachelor’s,Sales,Los Angeles,Startup,2.4,3.9,7312.0
+29,8,High School,Sales,Chicago,Startup,3.4,2.7,4725.0
+39,16,Master’s,IT,New York,MNC,1.1,4.2,4853.0
+61,8,Master’s,IT,Los Angeles,MNC,1.5,0.9,4962.0
+42,10,Master’s,Sales,New York,MNC,1.5,1.3,4631.0
+44,14,Bachelor’s,Sales,Los Angeles,Startup,1.8,4.1,4900.0
+59,23,Bachelor’s,IT,Chicago,Startup,2.8,7.6,6175.0
+45,29,Master’s,IT,Chicago,Startup,4.0,17.5,7972.0
+33,17,Bachelor’s,Sales,Los Angeles,MNC,4.6,15.5,6782.0
+32,16,Bachelor’s,HR,Los Angeles,MNC,4.3,19.3,6355.0
+64,30,High School,IT,Los Angeles,Startup,1.8,6.7,6218.0
+61,4,Bachelor’s,Sales,Chicago,Startup,2.8,6.4,4338.0
+20,4,Bachelor’s,Sales,New York,MNC,1.8,8.1,3513.0
+54,10,Bachelor’s,Sales,Chicago,Startup,2.1,8.3,4123.0
+24,8,Bachelor’s,Sales,Los Angeles,MNC,3.0,8.7,4360.0
+38,22,Bachelor’s,HR,Los Angeles,MNC,1.3,4.1,5547.0
+26,10,Master’s,Sales,Chicago,Startup,1.9,7.0,4992.0
+56,34,Master’s,IT,Los Angeles,MNC,4.7,16.3,8468.0
+35,19,Master’s,HR,Chicago,Startup,2.9,10.0,5861.0
+21,0,Master’s,Sales,Los Angeles,MNC,2.8,1.8,4713.0
+42,26,PhD,HR,New York,MNC,1.1,0.1,6564.0
+31,15,High School,IT,New York,Startup,2.0,1.5,4031.0
+26,10,Bachelor’s,Sales,Los Angeles,MNC,4.5,10.8,5409.0
+43,7,High School,IT,Chicago,Startup,1.7,4.5,3286.0
+19,3,Master’s,Sales,New York,Startup,2.7,4.5,4888.0
+37,21,Master’s,Sales,Chicago,MNC,1.1,9.6,5330.0
+45,29,Bachelor’s,Sales,Los Angeles,Startup,2.9,9.2,7178.0
+64,13,PhD,Sales,Chicago,Startup,1.1,3.1,5407.0
+24,8,High School,Sales,New York,Startup,4.3,18.1,4790.0
+61,34,PhD,HR,Chicago,Startup,4.3,8.7,9007.0
+25,9,Bachelor’s,Sales,Chicago,Startup,4.2,11.3,5079.0
+64,36,Bachelor’s,Sales,Los Angeles,Startup,2.1,5.4,7296.0
+52,4,Bachelor’s,HR,Los Angeles,MNC,4.3,11.5,5321.0
+31,15,Bachelor’s,HR,Los Angeles,Startup,3.2,2.6,6086.0
+34,13,Bachelor’s,HR,New York,MNC,2.5,8.0,5369.0
+53,25,Bachelor’s,HR,New York,MNC,3.5,6.3,7008.0
+57,3,Master’s,HR,Los Angeles,Startup,1.0,5.0,3772.0
+21,5,Bachelor’s,HR,Los Angeles,MNC,1.6,0.6,3970.0
+19,3,Bachelor’s,Sales,New York,MNC,4.0,8.2,5014.0
+23,7,Master’s,Sales,New York,Startup,2.0,6.2,4311.0
+59,39,Master’s,IT,New York,Startup,3.4,1.9,9079.0
+21,5,Bachelor’s,Sales,New York,Startup,2.5,6.1,4041.0
+46,30,Bachelor’s,Sales,Los Angeles,MNC,4.4,8.4,8149.0
+35,19,Bachelor’s,HR,New York,MNC,4.8,12.0,7121.0
+43,13,Bachelor’s,HR,Los Angeles,Startup,4.5,14.2,6180.0
+61,31,Master’s,Sales,Chicago,Startup,2.1,5.8,7032.0
+51,35,Bachelor’s,IT,Chicago,MNC,1.8,9.5,6416.0
+27,11,Bachelor’s,HR,New York,MNC,2.9,0.5,5042.0
+53,22,Master’s,Sales,Chicago,MNC,1.0,1.1,5530.0
+31,14,Bachelor’s,Sales,Chicago,MNC,1.1,1.7,4875.0
+48,32,Bachelor’s,IT,Chicago,Startup,3.2,6.9,7538.0
+65,24,Bachelor’s,IT,New York,MNC,3.1,6.5,6822.0
+32,16,PhD,HR,New York,MNC,5.0,10.2,7585.0
+25,9,Bachelor’s,IT,Chicago,MNC,1.8,7.3,4205.0
+31,1,Master’s,Sales,Los Angeles,MNC,2.0,5.1,3716.0
+40,13,Bachelor’s,Sales,Chicago,Startup,1.5,9.9,4604.0
+57,39,High School,IT,New York,Startup,4.7,9.0,8629.0
+38,22,Master’s,IT,New York,MNC,4.1,16.5,6864.0
+33,17,PhD,IT,New York,MNC,4.3,15.9,7644.0
+62,5,Master’s,IT,Chicago,Startup,4.6,18.5,5848.0
+35,5,Master’s,HR,Los Angeles,Startup,3.1,7.3,5363.0
+64,2,Master’s,IT,New York,MNC,2.8,6.3,4724.0
+41,6,Bachelor’s,HR,New York,MNC,2.3,1.4,4296.0
+43,7,Bachelor’s,Sales,Chicago,Startup,3.4,4.4,5043.0
+42,14,Master’s,IT,Los Angeles,Startup,2.8,5.6,5635.0
+62,28,Bachelor’s,HR,Chicago,Startup,2.8,8.5,6535.0
+58,32,Master’s,IT,New York,Startup,4.7,11.1,9030.0
+46,29,PhD,Sales,Los Angeles,Startup,4.9,15.0,9271.0
+32,16,Bachelor’s,Sales,Los Angeles,Startup,4.2,16.6,6588.0
+62,26,Bachelor’s,Sales,New York,MNC,4.0,9.5,7339.0
+18,2,Master’s,IT,Los Angeles,Startup,3.7,8.0,4696.0
+42,26,Bachelor’s,IT,Los Angeles,Startup,1.7,5.8,5571.0
+24,8,Master’s,HR,Chicago,Startup,1.2,9.6,3980.0
+26,10,Bachelor’s,Sales,New York,Startup,3.8,6.6,5584.0
+41,25,Master’s,IT,New York,MNC,3.9,5.2,7615.0
+18,2,High School,Sales,New York,MNC,1.2,0.2,2961.0
+61,32,Master’s,Sales,New York,Startup,4.7,18.7,8424.0
+25,3,Bachelor’s,HR,New York,MNC,1.4,3.0,3569.0
+41,21,Bachelor’s,HR,Los Angeles,MNC,2.1,7.5,5212.0
+28,1,Bachelor’s,HR,Chicago,MNC,3.7,2.1,4453.0
+34,9,Master’s,HR,New York,MNC,1.7,2.1,4917.0
+25,4,Master’s,Sales,Chicago,MNC,1.2,1.9,3948.0
+52,9,Bachelor’s,HR,Chicago,MNC,2.3,1.3,4477.0
+52,32,High School,HR,Los Angeles,Startup,4.1,17.9,7617.0
+50,34,High School,HR,New York,Startup,2.7,8.9,6676.0
+22,6,Master’s,HR,Los Angeles,Startup,3.6,7.7,5320.0
+59,30,Master’s,Sales,New York,Startup,3.3,7.4,7471.0
+56,35,Bachelor’s,HR,Los Angeles,Startup,1.1,8.0,6962.0
+58,23,Bachelor’s,Sales,Chicago,MNC,5.0,16.5,7479.0
+45,14,Bachelor’s,IT,New York,Startup,1.2,8.9,4165.0
+24,8,Bachelor’s,Sales,Chicago,Startup,4.9,17.2,5846.0
+26,7,Bachelor’s,Sales,Chicago,MNC,3.2,3.4,5256.0
+25,4,PhD,HR,Los Angeles,MNC,4.9,17.4,6498.0
+29,13,Bachelor’s,IT,New York,Startup,1.5,1.0,4510.0
+51,3,Master’s,IT,Chicago,MNC,3.0,7.3,4758.0
+50,11,Bachelor’s,IT,Los Angeles,MNC,1.7,3.9,4138.0
+65,1,Bachelor’s,IT,New York,MNC,1.2,7.8,3163.0
+40,24,Master’s,Sales,New York,MNC,3.5,4.9,7561.0
+41,25,Master’s,IT,Chicago,Startup,1.8,1.8,6278.0
+54,35,PhD,Sales,New York,MNC,3.4,7.3,8201.0
+52,35,Bachelor’s,Sales,Chicago,Startup,1.4,2.5,6817.0
+61,25,Bachelor’s,Sales,New York,Startup,2.3,4.9,6013.0
+57,26,Master’s,IT,Los Angeles,MNC,4.1,13.9,7221.0
+39,4,Bachelor’s,HR,Chicago,MNC,2.7,6.2,4176.0
+44,19,Bachelor’s,HR,Chicago,MNC,3.5,6.7,6287.0
+52,10,High School,IT,New York,Startup,3.6,3.8,4469.0
+18,2,High School,HR,New York,MNC,4.4,16.2,4104.0
+52,36,Master’s,HR,Chicago,MNC,2.3,8.7,8074.0
+54,37,Bachelor’s,Sales,New York,MNC,3.7,7.1,7886.0
+64,5,Bachelor’s,Sales,Los Angeles,MNC,4.8,11.7,5898.0
+31,7,Bachelor’s,IT,New York,MNC,3.9,2.5,5121.0
+20,4,Bachelor’s,IT,Los Angeles,Startup,3.0,6.6,4094.0
+18,2,High School,HR,Los Angeles,MNC,3.5,2.0,4119.0
+22,6,Bachelor’s,Sales,Los Angeles,MNC,4.0,8.8,5252.0
+43,25,High School,IT,Los Angeles,MNC,3.4,10.0,5974.0
+31,12,Master’s,IT,Los Angeles,Startup,1.1,6.2,4256.0
+56,39,Bachelor’s,IT,New York,MNC,1.8,4.3,7704.0
+44,17,Bachelor’s,IT,Los Angeles,Startup,4.2,18.5,6778.0
+26,10,Master’s,IT,New York,Startup,2.1,6.0,5115.0
+32,16,Master’s,IT,Los Angeles,MNC,3.9,0.5,6665.0
+32,16,Bachelor’s,HR,Chicago,MNC,2.5,0.9,5703.0
+43,11,Bachelor’s,Sales,Los Angeles,MNC,3.1,0.3,5499.0
+59,35,Bachelor’s,Sales,Chicago,Startup,1.3,5.0,6722.0
+30,3,Master’s,IT,Los Angeles,Startup,1.7,6.0,4248.0
+49,4,PhD,Sales,Los Angeles,Startup,4.8,14.1,6569.0
+56,36,Master’s,Sales,Los Angeles,Startup,4.6,9.7,8577.0
+49,7,Bachelor’s,Sales,Chicago,Startup,3.6,2.3,4741.0
+21,5,Master’s,IT,Chicago,Startup,2.8,6.9,4602.0
+47,30,Bachelor’s,IT,Los Angeles,MNC,3.7,9.8,7392.0
+54,8,High School,Sales,New York,MNC,3.5,6.9,4850.0
+40,24,Bachelor’s,Sales,Los Angeles,Startup,3.3,8.8,6511.0
+56,13,PhD,IT,Chicago,MNC,1.2,9.5,4979.0
+62,39,Bachelor’s,HR,Los Angeles,MNC,3.5,4.9,8172.0
+32,16,Master’s,Sales,Chicago,Startup,4.1,11.2,6566.0
+60,21,Bachelor’s,HR,Chicago,Startup,5.0,13.2,7365.0
+46,10,Bachelor’s,Sales,Chicago,MNC,1.0,3.6,3883.0
+53,22,High School,HR,Los Angeles,Startup,3.9,2.6,6040.0
+30,0,Bachelor’s,HR,Chicago,Startup,3.3,9.5,4545.0
+49,33,Master’s,HR,Chicago,MNC,2.7,7.3,7948.0
+24,8,Bachelor’s,IT,Los Angeles,Startup,1.5,2.2,4237.0
+39,23,Master’s,HR,Chicago,MNC,2.6,4.5,6225.0
+45,29,Master’s,HR,Los Angeles,MNC,2.4,8.0,7093.0
+19,3,PhD,HR,Chicago,MNC,2.2,5.5,4446.0
+59,0,Bachelor’s,Sales,New York,MNC,3.9,6.5,4667.0
+62,39,Bachelor’s,HR,New York,MNC,3.8,7.5,8275.0
+23,7,Bachelor’s,Sales,Chicago,Startup,3.4,6.2,5348.0
+45,20,PhD,HR,New York,Startup,4.8,18.4,8018.0
+45,8,PhD,HR,Los Angeles,Startup,2.4,7.5,5463.0
+61,8,Bachelor’s,IT,New York,Startup,2.0,7.3,4586.0
+61,9,Master’s,Sales,Chicago,MNC,3.6,6.3,6048.0
+37,21,Bachelor’s,HR,Chicago,MNC,1.8,3.6,5122.0
+47,31,Master’s,Sales,Los Angeles,Startup,2.3,4.1,7223.0
+28,12,High School,Sales,Chicago,MNC,1.9,9.7,3783.0
+45,24,Master’s,IT,Los Angeles,Startup,1.3,1.1,6168.0
+42,25,Bachelor’s,IT,New York,Startup,4.3,8.6,7466.0
+56,10,Master’s,IT,New York,Startup,2.0,4.9,5340.0
+50,34,Master’s,IT,Los Angeles,MNC,2.9,8.4,7911.0
+18,1,Master’s,IT,Los Angeles,MNC,1.2,1.6,4048.0
+44,6,High School,IT,Chicago,MNC,3.8,2.8,4606.0
+30,14,Bachelor’s,IT,New York,MNC,2.3,0.7,5329.0
+58,26,Bachelor’s,IT,Los Angeles,Startup,4.0,13.2,6622.0
+20,4,Bachelor’s,HR,New York,MNC,2.6,2.4,4265.0
+56,26,High School,Sales,Los Angeles,MNC,1.8,3.9,5885.0
+23,7,PhD,IT,New York,MNC,3.1,4.4,6015.0
+25,9,Bachelor’s,IT,Chicago,Startup,1.5,8.9,4614.0
+44,24,Bachelor’s,Sales,New York,Startup,2.8,4.1,6034.0
+26,6,Bachelor’s,HR,New York,MNC,2.3,1.5,4745.0
+54,5,Bachelor’s,Sales,New York,MNC,4.6,14.6,4858.0
+50,23,Master’s,Sales,New York,MNC,1.2,9.6,5563.0
+59,32,Bachelor’s,IT,New York,MNC,3.8,6.1,7870.0
+61,28,PhD,Sales,Chicago,Startup,1.7,9.8,7475.0
+41,21,Bachelor’s,Sales,Los Angeles,MNC,2.3,8.4,5465.0
+32,16,PhD,IT,New York,MNC,2.7,0.4,6132.0
+49,27,Master’s,IT,Chicago,MNC,4.6,19.2,8068.0
+49,20,Bachelor’s,IT,New York,Startup,2.0,2.9,5656.0
+41,6,PhD,IT,New York,Startup,1.4,5.6,5234.0
+58,16,Bachelor’s,Sales,Los Angeles,MNC,2.3,2.8,4839.0
+29,13,Master’s,Sales,New York,MNC,1.4,3.5,5463.0
+56,40,Bachelor’s,HR,Chicago,MNC,1.5,9.2,7060.0
+19,3,Master’s,HR,Chicago,MNC,3.3,2.1,5006.0
+20,4,Master’s,Sales,Los Angeles,MNC,1.2,8.7,4471.0
+54,27,Master’s,HR,New York,Startup,1.1,0.3,6006.0
+34,18,Master’s,Sales,Chicago,Startup,3.9,0.9,6782.0
+19,3,Bachelor’s,HR,New York,Startup,2.4,8.5,4478.0
+19,0,High School,IT,New York,MNC,1.5,6.3,2782.0
+45,29,Bachelor’s,HR,New York,Startup,2.0,7.5,5951.0
+40,12,Bachelor’s,IT,Los Angeles,Startup,3.6,2.1,5337.0
+54,29,Master’s,IT,New York,Startup,2.1,5.4,6620.0
+49,22,Bachelor’s,IT,Chicago,MNC,3.0,7.4,6647.0
+50,18,PhD,IT,New York,MNC,1.5,6.3,5616.0
+18,2,Master’s,HR,Chicago,Startup,3.4,4.7,5024.0
+36,20,Master’s,Sales,New York,MNC,2.3,9.6,5949.0
+19,3,Bachelor’s,IT,Chicago,Startup,3.5,6.8,4721.0
+61,28,Master’s,HR,Chicago,Startup,4.2,11.0,8177.0
+43,27,PhD,IT,New York,Startup,3.4,7.3,8231.0
+49,15,Bachelor’s,HR,New York,Startup,2.2,7.4,4831.0
+23,7,Master’s,HR,Chicago,MNC,2.0,0.8,5174.0
+49,18,Master’s,HR,Los Angeles,MNC,2.3,3.6,6286.0
+21,5,Bachelor’s,Sales,New York,MNC,1.7,8.6,3417.0
+28,0,Bachelor’s,HR,Los Angeles,MNC,1.7,2.3,3355.0
+34,13,Bachelor’s,HR,New York,Startup,4.2,13.2,5427.0
+55,1,Bachelor’s,Sales,New York,MNC,2.5,3.3,4298.0
+41,25,Bachelor’s,Sales,New York,Startup,2.7,2.2,6477.0
+22,6,High School,HR,New York,MNC,3.4,9.3,3850.0
+51,35,High School,Sales,Los Angeles,MNC,3.4,8.7,7392.0
+23,3,Bachelor’s,IT,New York,MNC,1.3,5.0,3209.0
+39,0,PhD,IT,Chicago,Startup,4.3,14.3,5740.0
+28,7,Bachelor’s,Sales,Chicago,Startup,1.7,7.1,4334.0
+65,28,PhD,Sales,Los Angeles,Startup,3.9,6.2,8369.0
+33,17,Bachelor’s,HR,New York,Startup,4.1,18.9,6712.0
+50,2,Bachelor’s,Sales,Chicago,MNC,3.9,5.6,4735.0
+26,10,Bachelor’s,HR,Los Angeles,Startup,3.3,3.4,5336.0
+23,7,Bachelor’s,IT,New York,Startup,1.1,5.2,3433.0
+33,9,Bachelor’s,Sales,Chicago,MNC,2.4,9.8,4122.0
+46,18,Master’s,HR,Chicago,MNC,3.4,7.0,6785.0
+20,4,Bachelor’s,HR,Los Angeles,Startup,2.5,6.7,3778.0
+37,21,Master’s,IT,New York,MNC,4.5,10.6,7140.0
+53,22,Master’s,Sales,New York,Startup,2.2,7.4,6631.0
+36,20,Bachelor’s,IT,Chicago,MNC,2.2,7.5,5600.0
+43,27,High School,HR,Chicago,Startup,2.1,3.2,5435.0
+20,4,Master’s,HR,Chicago,Startup,2.3,4.8,4528.0
+36,20,Bachelor’s,Sales,New York,Startup,3.2,2.9,6170.0
+37,7,High School,HR,Los Angeles,Startup,3.8,2.6,4591.0
+49,0,PhD,Sales,Los Angeles,Startup,3.7,0.3,5362.0
+24,2,High School,IT,New York,MNC,4.2,14.1,4442.0
+58,23,Master’s,Sales,Los Angeles,Startup,4.5,14.9,7116.0
+50,22,PhD,Sales,Chicago,Startup,4.3,19.2,8154.0
+57,7,Bachelor’s,HR,Los Angeles,Startup,1.1,2.8,3716.0
+56,36,Bachelor’s,HR,Los Angeles,Startup,3.9,8.8,7834.0
+35,2,Bachelor’s,Sales,Los Angeles,Startup,1.8,5.9,3700.0
+57,32,Bachelor’s,HR,Chicago,MNC,1.5,6.1,6366.0
+18,2,Bachelor’s,HR,New York,MNC,3.6,4.0,4099.0
+28,7,Master’s,HR,Chicago,Startup,2.3,6.8,4538.0
+45,29,High School,Sales,New York,MNC,1.2,1.9,5988.0
+42,26,Bachelor’s,HR,New York,Startup,1.6,8.2,6289.0
+40,24,PhD,Sales,New York,MNC,1.0,1.2,6757.0
+48,23,Master’s,HR,Los Angeles,MNC,4.6,10.7,7487.0
+47,13,Master’s,IT,Los Angeles,Startup,1.1,3.4,4590.0
+59,31,Bachelor’s,HR,New York,MNC,1.8,7.5,6781.0
+52,15,Master’s,HR,New York,MNC,2.7,5.5,6080.0
+24,3,Bachelor’s,Sales,Los Angeles,Startup,2.4,4.5,3916.0
+33,17,Bachelor’s,Sales,Chicago,Startup,4.6,16.2,6917.0
+43,20,Bachelor’s,HR,New York,MNC,1.2,6.4,4775.0
+65,13,Master’s,IT,Chicago,MNC,3.0,9.7,5686.0
+19,3,Bachelor’s,HR,Los Angeles,MNC,3.7,8.3,4620.0
+18,2,Bachelor’s,HR,New York,Startup,4.7,11.1,5402.0
+65,6,Bachelor’s,IT,Chicago,MNC,3.5,3.8,4582.0
+29,9,Bachelor’s,Sales,Chicago,MNC,4.2,17.0,5662.0
+22,6,Master’s,HR,Chicago,MNC,1.3,5.0,4201.0
+54,32,Master’s,Sales,Los Angeles,Startup,2.5,6.6,7226.0
+49,22,Master’s,Sales,Los Angeles,Startup,2.5,9.1,6178.0
+26,10,High School,IT,Chicago,Startup,4.5,8.8,4920.0
+58,18,Bachelor’s,IT,Chicago,Startup,1.6,5.0,5334.0
+52,18,Bachelor’s,Sales,Los Angeles,MNC,1.6,4.4,4812.0
+36,20,High School,HR,Chicago,Startup,2.3,3.4,4931.0
+65,28,Bachelor’s,Sales,Chicago,MNC,1.2,7.2,5440.0
+33,17,Master’s,HR,Los Angeles,MNC,1.7,2.9,5171.0
+20,1,Bachelor’s,HR,Chicago,MNC,4.9,19.4,4776.0
+37,0,Bachelor’s,IT,Chicago,MNC,2.7,3.6,3643.0
+41,4,Bachelor’s,HR,Chicago,Startup,3.5,1.8,4749.0
+50,19,High School,HR,Los Angeles,Startup,3.9,7.0,5616.0
+41,10,Bachelor’s,Sales,Chicago,Startup,2.5,6.2,4790.0
+28,1,PhD,IT,Los Angeles,Startup,1.6,4.8,4658.0
+25,2,Master’s,HR,Los Angeles,Startup,1.8,3.9,4427.0
+53,22,PhD,HR,New York,MNC,2.3,9.1,6800.0
+55,11,Bachelor’s,IT,New York,Startup,3.5,0.3,5298.0
+57,19,Bachelor’s,Sales,Chicago,Startup,2.6,7.7,5955.0
+37,4,Bachelor’s,IT,Los Angeles,Startup,1.0,9.0,2960.0
+52,36,Bachelor’s,IT,New York,Startup,3.1,4.5,7651.0
+65,37,Master’s,HR,Chicago,MNC,4.7,8.7,8696.0
+42,26,High School,HR,New York,MNC,4.2,12.1,6885.0
+52,8,Bachelor’s,Sales,New York,MNC,4.3,16.0,5894.0
+42,26,Bachelor’s,HR,Los Angeles,MNC,4.2,9.2,7489.0
+46,30,Bachelor’s,HR,Los Angeles,MNC,2.3,4.7,6483.0
+35,19,Master’s,IT,New York,Startup,4.1,9.7,7330.0
+63,23,Bachelor’s,HR,New York,MNC,1.6,8.2,6052.0
+35,16,Bachelor’s,Sales,Los Angeles,MNC,3.6,9.0,6290.0
+19,3,Bachelor’s,IT,Chicago,MNC,3.6,7.8,4241.0
+52,29,Bachelor’s,Sales,Los Angeles,Startup,1.1,2.0,5493.0
+33,17,Master’s,IT,New York,Startup,4.2,18.4,6443.0
+58,31,Master’s,HR,Chicago,MNC,4.6,16.8,8764.0
+53,16,PhD,IT,New York,Startup,2.1,0.6,5982.0
+50,16,Master’s,IT,Chicago,Startup,4.2,14.9,7197.0
+21,5,Bachelor’s,HR,New York,MNC,1.3,5.3,3646.0
+50,8,Master’s,HR,Chicago,Startup,3.4,6.6,5395.0
+31,15,Bachelor’s,Sales,Chicago,Startup,2.9,5.9,5004.0
+38,1,Bachelor’s,Sales,New York,Startup,3.2,4.2,4006.0
+65,24,Master’s,HR,Chicago,MNC,4.7,16.1,8119.0
+37,21,High School,HR,Los Angeles,MNC,4.5,12.0,6272.0
+25,8,PhD,HR,New York,MNC,4.1,11.1,6266.0
+24,8,Bachelor’s,IT,Los Angeles,Startup,2.1,6.5,4522.0
+20,3,Master’s,IT,New York,MNC,4.6,8.3,5896.0
+34,18,Master’s,IT,Chicago,Startup,1.4,7.7,5324.0
+50,28,Master’s,HR,Chicago,Startup,4.4,14.2,8209.0
+65,33,Master’s,Sales,Chicago,Startup,2.3,2.9,7620.0
+29,13,Master’s,HR,New York,MNC,1.2,0.7,4479.0
+39,23,High School,IT,Los Angeles,MNC,3.7,3.5,5680.0
+39,10,Bachelor’s,IT,Los Angeles,MNC,1.9,7.4,4934.0
+63,5,Bachelor’s,HR,New York,MNC,2.0,4.4,3611.0
+47,17,Master’s,HR,New York,Startup,2.2,8.2,5857.0
+55,20,Bachelor’s,IT,Los Angeles,MNC,1.3,5.5,5514.0
+55,35,Master’s,IT,Los Angeles,Startup,1.7,9.3,7566.0
+62,40,High School,IT,Los Angeles,MNC,1.0,9.5,6563.0
+25,9,High School,HR,Los Angeles,MNC,2.8,0.7,4449.0
+44,28,Master’s,IT,New York,MNC,1.3,4.6,6421.0
+44,16,High School,IT,New York,Startup,3.7,6.1,5023.0
+51,35,High School,Sales,Chicago,Startup,1.9,2.6,6502.0
+38,22,High School,HR,Los Angeles,Startup,4.8,14.3,6578.0
+47,31,PhD,Sales,Chicago,Startup,4.5,9.3,8938.0
+50,11,Master’s,Sales,New York,Startup,2.2,2.3,5086.0
+45,22,Bachelor’s,IT,New York,MNC,4.1,20.0,6948.0
+64,21,Bachelor’s,HR,Chicago,Startup,4.2,14.5,7081.0
+50,20,Bachelor’s,IT,Los Angeles,Startup,4.9,11.4,7013.0
+22,6,Master’s,HR,Los Angeles,Startup,3.4,5.0,5729.0
+65,30,Master’s,Sales,Los Angeles,Startup,1.3,2.6,6582.0
+36,5,Bachelor’s,HR,Los Angeles,MNC,3.6,7.2,4711.0
+21,5,Bachelor’s,IT,Chicago,Startup,3.5,1.9,4716.0
+52,36,High School,IT,Chicago,MNC,3.6,8.9,7498.0
+34,18,Master’s,IT,New York,MNC,2.2,4.3,6020.0
+61,11,Master’s,HR,Los Angeles,MNC,4.4,16.2,6791.0
+45,6,Bachelor’s,Sales,Los Angeles,Startup,4.8,18.7,5908.0
+47,9,High School,Sales,Los Angeles,MNC,1.9,4.1,4086.0
+46,16,High School,HR,Chicago,Startup,1.4,4.3,4793.0
+63,25,PhD,IT,Los Angeles,Startup,1.8,5.9,7392.0
+23,7,Bachelor’s,Sales,Chicago,Startup,4.3,11.7,5097.0
+52,27,Master’s,IT,Los Angeles,Startup,3.7,1.5,7630.0
+58,1,Master’s,HR,Los Angeles,Startup,3.5,0.7,4469.0
+54,0,Bachelor’s,IT,New York,MNC,2.6,7.3,3366.0
+41,25,Bachelor’s,Sales,Los Angeles,MNC,3.3,5.6,6722.0
+46,25,Bachelor’s,Sales,Los Angeles,Startup,2.2,3.6,6555.0
+63,28,Master’s,IT,New York,MNC,2.9,8.1,7076.0
+48,20,Master’s,HR,Chicago,Startup,4.2,15.2,7519.0
+52,10,Master’s,IT,Chicago,MNC,4.9,11.9,6652.0
+50,34,Bachelor’s,HR,Los Angeles,MNC,4.7,17.3,8219.0
+38,10,High School,IT,Chicago,MNC,4.7,8.8,5342.0
+49,33,PhD,Sales,Los Angeles,MNC,2.6,9.3,8300.0
+40,24,Master’s,HR,New York,MNC,2.9,3.9,7012.0
+50,34,Bachelor’s,HR,New York,Startup,3.8,7.9,7585.0
+20,4,PhD,HR,Los Angeles,Startup,4.7,14.0,6705.0
+35,19,Master’s,Sales,New York,MNC,1.6,6.5,6113.0
+42,23,Bachelor’s,IT,New York,Startup,2.2,8.7,6007.0
+59,21,Master’s,Sales,Los Angeles,MNC,1.6,0.4,5711.0
+48,4,Master’s,HR,Los Angeles,Startup,3.4,8.3,4908.0
+20,4,Master’s,IT,New York,MNC,2.2,5.7,4774.0
+57,35,Bachelor’s,Sales,Chicago,MNC,2.3,6.1,6746.0
+63,19,Bachelor’s,HR,Chicago,MNC,1.3,5.2,5514.0
+41,18,PhD,HR,Los Angeles,Startup,2.4,8.7,6112.0
+49,33,Bachelor’s,Sales,Los Angeles,Startup,4.4,17.3,8487.0
+64,16,Bachelor’s,Sales,Chicago,MNC,1.9,2.6,5186.0
+39,23,Bachelor’s,Sales,New York,MNC,3.8,8.8,6655.0
+40,8,Bachelor’s,HR,Chicago,Startup,3.5,7.5,5012.0
+19,3,Master’s,Sales,Chicago,Startup,4.5,13.8,5997.0
+44,1,PhD,HR,Chicago,Startup,1.5,5.2,3981.0
+59,8,Bachelor’s,Sales,Chicago,Startup,4.9,19.1,6179.0
+19,3,Bachelor’s,HR,Los Angeles,Startup,3.3,4.0,4914.0
+43,27,Bachelor’s,HR,Los Angeles,MNC,5.0,10.7,8128.0
+34,16,Master’s,IT,New York,Startup,4.6,10.5,6520.0
+57,0,Master’s,Sales,New York,MNC,1.9,2.1,3646.0
+50,24,Bachelor’s,Sales,New York,MNC,1.2,8.0,5805.0
+26,10,Master’s,HR,New York,Startup,2.0,8.0,4981.0
+60,24,Master’s,HR,Chicago,Startup,3.1,4.2,7083.0
+65,38,Master’s,HR,Los Angeles,MNC,1.7,2.8,7943.0
+56,34,PhD,IT,Los Angeles,Startup,1.7,2.8,8146.0
+46,2,Bachelor’s,IT,New York,MNC,2.9,4.8,4421.0
+59,36,Master’s,HR,New York,Startup,1.1,7.2,6688.0
+43,27,Bachelor’s,Sales,Chicago,Startup,1.5,3.6,6015.0
+52,36,Master’s,Sales,Chicago,Startup,2.7,6.1,7961.0
+42,26,Master’s,IT,New York,MNC,1.3,3.8,6223.0
+41,11,Master’s,IT,Los Angeles,Startup,2.6,3.0,5060.0
+30,14,Master’s,HR,Los Angeles,MNC,2.9,0.2,5638.0
+24,8,Bachelor’s,Sales,Los Angeles,Startup,2.8,0.0,4399.0
+53,16,Bachelor’s,HR,New York,MNC,4.5,18.0,6637.0
+62,9,PhD,IT,Los Angeles,Startup,3.1,4.1,5977.0
+37,11,PhD,Sales,Chicago,MNC,2.9,8.5,6466.0
+18,2,High School,Sales,Chicago,MNC,2.6,8.0,3684.0
+25,9,Bachelor’s,IT,New York,MNC,4.3,10.4,5552.0
+63,18,Bachelor’s,HR,Chicago,MNC,4.6,19.4,6347.0
+33,7,Master’s,HR,New York,MNC,4.4,10.5,5782.0
+31,15,Master’s,Sales,Los Angeles,MNC,3.7,3.4,6067.0
+29,13,Bachelor’s,IT,Los Angeles,Startup,1.5,5.0,4136.0
+40,16,Bachelor’s,Sales,Los Angeles,MNC,2.1,4.4,4731.0
+32,16,Master’s,IT,Chicago,MNC,1.2,2.2,4761.0
+45,29,Master’s,HR,New York,MNC,4.7,10.3,8548.0
+51,15,Bachelor’s,IT,Los Angeles,Startup,3.6,0.1,5799.0
+19,3,Bachelor’s,HR,New York,Startup,4.0,13.6,4341.0
+49,7,Bachelor’s,IT,Los Angeles,Startup,2.2,7.1,3811.0
+40,24,Bachelor’s,Sales,Chicago,MNC,4.4,17.8,7432.0
+39,17,Bachelor’s,HR,Chicago,Startup,2.0,4.7,5445.0
+42,24,Master’s,Sales,New York,Startup,1.0,5.9,6240.0
+39,11,Master’s,Sales,Chicago,MNC,2.5,8.9,5492.0
+39,14,Master’s,HR,Chicago,MNC,3.3,8.9,5664.0
+59,25,Master’s,HR,New York,Startup,2.9,7.5,6667.0
+23,7,Bachelor’s,Sales,Los Angeles,MNC,4.4,13.1,5548.0
+32,16,Bachelor’s,Sales,Chicago,MNC,1.4,5.8,4405.0
+60,31,High School,Sales,New York,MNC,3.2,7.9,6890.0
+54,9,Bachelor’s,Sales,Chicago,MNC,3.1,0.2,4977.0
+50,15,Master’s,HR,Chicago,Startup,2.1,5.5,5521.0
+25,6,PhD,HR,Chicago,MNC,4.3,9.0,6503.0
+61,16,High School,Sales,Chicago,Startup,4.0,10.8,5945.0
+61,22,Bachelor’s,IT,New York,Startup,3.9,0.0,7042.0
+22,6,Master’s,IT,New York,Startup,4.5,9.5,5736.0
+56,20,Bachelor’s,HR,New York,Startup,3.9,4.2,6175.0
+21,5,Bachelor’s,Sales,Chicago,MNC,1.9,1.6,3930.0
+23,6,Master’s,Sales,Chicago,MNC,3.8,6.6,5753.0
+62,13,Master’s,HR,Chicago,MNC,2.2,7.1,5307.0
+49,14,Bachelor’s,IT,New York,Startup,2.0,1.8,4856.0
+47,6,Bachelor’s,IT,Chicago,Startup,1.3,8.9,3902.0
+64,8,Master’s,IT,Los Angeles,Startup,4.0,10.1,6197.0
+52,7,Bachelor’s,HR,Chicago,MNC,3.8,1.4,5310.0
+57,22,High School,IT,Los Angeles,Startup,1.9,7.6,5273.0
+33,17,Master’s,HR,Chicago,MNC,4.0,9.7,6838.0
+30,14,High School,HR,New York,MNC,4.7,13.1,5270.0
+59,30,Master’s,Sales,Chicago,MNC,1.4,8.5,6858.0
+47,29,Bachelor’s,IT,Los Angeles,MNC,1.9,7.4,6450.0
+36,20,PhD,HR,Los Angeles,Startup,4.0,8.1,7814.0
+34,18,Bachelor’s,IT,Chicago,MNC,2.1,4.3,5767.0
+36,17,Bachelor’s,IT,Los Angeles,Startup,3.5,7.5,5652.0
+45,29,Bachelor’s,Sales,Los Angeles,MNC,1.3,10.0,5966.0
+43,16,Bachelor’s,IT,New York,Startup,2.8,7.2,5415.0
+54,13,Master’s,Sales,Chicago,Startup,4.0,18.6,6247.0
+43,27,PhD,HR,Chicago,MNC,3.7,5.2,8061.0
+40,23,Bachelor’s,IT,Chicago,MNC,4.3,10.7,6534.0
+26,10,Bachelor’s,HR,Los Angeles,MNC,4.5,18.3,5416.0
+29,13,Master’s,IT,Chicago,Startup,4.1,17.8,6233.0
+18,2,Master’s,HR,Chicago,MNC,3.7,1.8,5017.0
+18,2,Bachelor’s,IT,New York,MNC,1.1,1.8,2821.0
+64,39,Bachelor’s,IT,New York,Startup,3.1,9.2,8259.0
+51,25,Bachelor’s,IT,New York,MNC,1.2,4.7,6096.0
+49,22,Master’s,IT,Los Angeles,Startup,4.2,14.9,7320.0
+65,38,High School,IT,Chicago,MNC,2.3,6.0,7242.0
+42,14,Master’s,IT,New York,Startup,3.2,6.0,5972.0
+57,3,Bachelor’s,IT,New York,Startup,2.1,0.6,4342.0
+62,28,Master’s,IT,New York,MNC,4.1,19.4,7607.0
+18,2,High School,IT,Chicago,Startup,4.5,10.9,4224.0
+33,17,Bachelor’s,HR,Chicago,MNC,2.6,5.6,5749.0
+56,12,Bachelor’s,Sales,Chicago,MNC,4.5,13.7,5469.0
+22,6,Master’s,IT,Los Angeles,Startup,2.1,6.1,4639.0
+39,23,High School,Sales,Los Angeles,MNC,3.1,2.6,6094.0
+46,15,Bachelor’s,IT,New York,Startup,4.4,8.0,6189.0
+20,1,Bachelor’s,IT,Chicago,Startup,2.3,5.1,3982.0
+29,13,Bachelor’s,HR,New York,Startup,4.8,12.2,6025.0
+43,27,Master’s,HR,Chicago,Startup,1.5,0.5,6478.0
+33,17,Master’s,Sales,Chicago,Startup,1.1,6.0,5641.0
+54,12,Master’s,HR,Chicago,Startup,4.6,16.2,6088.0
+39,12,Bachelor’s,HR,Los Angeles,Startup,1.3,1.6,4335.0
+46,17,Master’s,Sales,Los Angeles,Startup,5.0,13.5,7407.0
+31,15,Bachelor’s,HR,Chicago,MNC,4.8,9.1,6249.0
+45,29,High School,IT,New York,MNC,1.5,5.9,5233.0
+22,6,High School,Sales,Chicago,Startup,3.2,1.4,4086.0
+64,38,Bachelor’s,Sales,Chicago,MNC,1.7,4.3,6736.0
+47,28,Master’s,IT,New York,MNC,2.7,5.5,6956.0
+63,28,Master’s,HR,Chicago,MNC,1.2,6.0,6749.0
+22,6,Master’s,Sales,New York,MNC,1.9,2.7,4203.0
+29,9,Bachelor’s,Sales,Los Angeles,MNC,2.5,4.0,4589.0
+33,17,Bachelor’s,IT,Los Angeles,MNC,2.8,7.8,5839.0
+43,24,Bachelor’s,IT,New York,Startup,4.9,10.1,7809.0
+43,27,Bachelor’s,HR,Los Angeles,MNC,4.2,8.1,7063.0
+65,19,Bachelor’s,Sales,Los Angeles,MNC,3.9,5.6,6826.0
+38,4,High School,HR,New York,MNC,3.1,4.1,4184.0
+56,0,Bachelor’s,HR,Los Angeles,MNC,4.4,13.0,4620.0
+53,29,Bachelor’s,IT,Chicago,Startup,2.4,1.2,6592.0
+50,2,Master’s,Sales,Chicago,Startup,3.8,1.1,5232.0
+47,13,PhD,Sales,New York,Startup,5.0,9.0,7792.0
+54,29,PhD,Sales,Los Angeles,Startup,2.3,2.6,7460.0
+40,3,Master’s,IT,Chicago,MNC,3.7,2.5,4822.0
+27,11,Bachelor’s,IT,Chicago,Startup,4.4,19.9,5303.0
+22,6,Master’s,IT,Los Angeles,Startup,4.7,12.1,6303.0
+53,24,Master’s,IT,Los Angeles,Startup,3.9,1.5,7489.0
+51,0,Bachelor’s,IT,Chicago,Startup,2.1,1.0,4035.0
+48,14,Bachelor’s,Sales,Chicago,MNC,2.3,5.8,5541.0
+27,8,Master’s,HR,New York,Startup,1.1,6.3,4321.0
+36,14,Bachelor’s,Sales,New York,MNC,4.0,17.4,5509.0
+49,23,Bachelor’s,HR,Chicago,Startup,1.2,5.4,5766.0
+18,2,Bachelor’s,IT,New York,MNC,4.5,11.1,4486.0
+22,6,Bachelor’s,HR,Chicago,MNC,1.5,8.2,4341.0
+62,36,Bachelor’s,Sales,Chicago,Startup,1.7,9.6,7032.0
+21,5,Bachelor’s,Sales,New York,Startup,2.9,8.2,4750.0
+33,5,High School,HR,New York,Startup,4.0,14.2,4030.0
+41,25,High School,IT,Los Angeles,Startup,1.6,1.8,5750.0
+33,17,Master’s,IT,Los Angeles,MNC,2.8,1.0,5980.0
+19,3,Bachelor’s,Sales,Los Angeles,MNC,2.9,0.5,4017.0
+45,12,Bachelor’s,HR,Chicago,Startup,1.8,6.7,4110.0
+49,33,Bachelor’s,IT,New York,Startup,1.5,8.1,6393.0
+44,24,PhD,IT,Chicago,MNC,4.3,9.7,8389.0
+37,6,Bachelor’s,Sales,New York,Startup,3.0,0.5,4643.0
+41,3,Bachelor’s,IT,Chicago,MNC,1.1,5.4,3418.0
+29,7,Master’s,HR,Los Angeles,Startup,4.2,17.4,5465.0
+52,19,Master’s,Sales,Los Angeles,MNC,4.9,10.9,7549.0
+50,28,Bachelor’s,Sales,Los Angeles,MNC,3.4,8.1,6841.0
+50,9,Master’s,HR,Chicago,MNC,3.0,8.0,5381.0
+60,33,Bachelor’s,Sales,New York,MNC,4.5,8.8,7568.0
+54,25,Bachelor’s,IT,New York,MNC,4.8,15.3,7527.0
+29,13,Bachelor’s,IT,Los Angeles,Startup,4.0,19.8,6279.0
+20,2,High School,HR,Los Angeles,MNC,2.8,2.3,3283.0
+18,2,Master’s,IT,Los Angeles,Startup,3.4,0.6,5181.0
+50,4,Bachelor’s,HR,Los Angeles,MNC,3.8,5.2,4844.0
+57,4,Bachelor’s,HR,New York,MNC,1.8,1.2,3309.0
+27,11,Master’s,IT,Chicago,Startup,2.8,9.6,5591.0
+60,8,Master’s,HR,Chicago,Startup,4.3,11.6,5641.0
+61,34,Bachelor’s,IT,Chicago,Startup,3.6,8.5,7519.0
+46,19,Master’s,Sales,Chicago,Startup,2.6,3.9,6401.0
+30,14,Bachelor’s,Sales,Los Angeles,MNC,3.7,3.2,5829.0
+29,13,Master’s,HR,Los Angeles,Startup,1.5,9.4,5024.0
+48,16,Master’s,IT,Los Angeles,MNC,2.6,3.6,6259.0
+63,23,PhD,IT,Chicago,Startup,4.2,18.7,8036.0
+19,2,High School,Sales,Los Angeles,Startup,1.9,1.1,3076.0
+52,31,High School,Sales,Los Angeles,MNC,1.7,6.7,6297.0
+40,24,Bachelor’s,IT,New York,MNC,4.8,11.0,6858.0
+34,18,Bachelor’s,HR,New York,Startup,1.8,5.9,5135.0
+43,12,Bachelor’s,Sales,Los Angeles,MNC,2.0,5.9,4296.0
+25,9,PhD,HR,New York,MNC,4.9,15.5,6845.0
+46,8,Bachelor’s,HR,New York,MNC,3.9,7.5,5536.0
+43,3,Bachelor’s,Sales,Los Angeles,MNC,3.8,5.1,4860.0
+27,11,Master’s,HR,Los Angeles,MNC,4.4,11.3,6077.0
+43,27,Bachelor’s,HR,Los Angeles,MNC,1.5,8.4,5714.0
+51,33,Master’s,IT,Los Angeles,MNC,3.8,3.1,7708.0
+58,10,High School,HR,Chicago,MNC,3.0,5.1,4456.0
+24,8,Bachelor’s,IT,Chicago,Startup,4.3,15.5,5744.0
+21,2,High School,Sales,Los Angeles,MNC,3.0,8.6,3472.0
+62,27,High School,Sales,New York,Startup,3.5,4.3,6889.0
+28,12,PhD,IT,Los Angeles,MNC,2.9,3.9,6462.0
+46,8,Bachelor’s,Sales,Los Angeles,MNC,2.9,6.9,4257.0
+53,2,Bachelor’s,HR,New York,MNC,4.1,16.0,4457.0
+42,24,Bachelor’s,HR,Chicago,MNC,3.5,1.1,7063.0
+38,22,Bachelor’s,HR,Los Angeles,Startup,3.5,5.1,6586.0
+53,11,Master’s,Sales,Los Angeles,Startup,2.8,7.4,5122.0
+27,8,High School,HR,Chicago,MNC,3.1,9.9,3882.0
+54,14,Master’s,Sales,Chicago,Startup,4.0,15.6,6412.0
+26,10,PhD,HR,New York,MNC,4.3,13.2,6353.0
+41,24,Bachelor’s,IT,Chicago,MNC,3.8,2.3,6817.0
+52,4,PhD,Sales,Chicago,Startup,4.7,10.4,6558.0
+52,10,High School,Sales,Chicago,Startup,4.3,17.0,5600.0
+65,33,Bachelor’s,HR,New York,MNC,3.2,2.3,7416.0
+53,23,Bachelor’s,Sales,Chicago,MNC,3.7,2.0,6592.0
+35,14,Master’s,Sales,Chicago,Startup,4.7,18.5,6841.0
+56,37,PhD,IT,New York,MNC,3.5,3.1,9235.0
+49,7,Bachelor’s,IT,Chicago,Startup,4.3,19.8,5538.0
+41,4,Master’s,HR,Chicago,MNC,3.8,1.5,5649.0
+40,24,Bachelor’s,IT,New York,MNC,3.2,2.6,6832.0
+49,17,Bachelor’s,HR,Los Angeles,Startup,2.0,4.3,5038.0
+54,5,Bachelor’s,HR,New York,Startup,2.7,7.3,4287.0
+29,13,PhD,HR,Chicago,Startup,4.9,8.8,7194.0
+30,12,Master’s,Sales,Chicago,MNC,3.6,3.3,5635.0
+40,24,Bachelor’s,IT,Chicago,MNC,3.3,2.8,6436.0
+42,4,Bachelor’s,HR,New York,MNC,4.7,16.9,4774.0
+52,12,Bachelor’s,IT,Chicago,MNC,3.3,1.8,5355.0
+58,16,Bachelor’s,HR,Chicago,Startup,3.1,4.9,5474.0
+47,31,Bachelor’s,IT,New York,MNC,4.0,8.6,7794.0
+34,18,Master’s,IT,Los Angeles,MNC,3.9,0.3,6929.0
+37,21,Bachelor’s,HR,Los Angeles,MNC,1.8,0.1,5978.0
+65,2,Bachelor’s,Sales,Chicago,Startup,2.9,0.8,3987.0
+42,26,Bachelor’s,IT,New York,MNC,2.9,5.4,6739.0
+39,23,Master’s,Sales,Chicago,MNC,2.5,8.5,6934.0
+30,14,Master’s,Sales,New York,Startup,3.1,0.0,5544.0
+36,20,High School,HR,New York,MNC,2.7,9.4,5394.0
+53,12,Master’s,HR,Los Angeles,MNC,1.8,1.1,5222.0
+29,13,Bachelor’s,HR,Los Angeles,Startup,2.6,8.4,4745.0
+58,5,High School,IT,New York,MNC,1.3,4.8,3542.0
+36,20,Bachelor’s,HR,Chicago,MNC,3.3,6.6,6602.0
+29,13,Bachelor’s,HR,Los Angeles,MNC,4.4,15.1,5730.0
+26,10,Bachelor’s,IT,Chicago,Startup,3.9,4.8,5733.0
+24,8,PhD,IT,Los Angeles,MNC,2.4,8.3,5847.0
+45,27,Master’s,HR,Los Angeles,MNC,1.3,7.6,6344.0
+31,15,Master’s,HR,Chicago,Startup,1.8,4.8,4937.0
+48,32,Bachelor’s,HR,Los Angeles,Startup,3.2,1.1,7224.0
+36,12,Bachelor’s,HR,Los Angeles,MNC,1.8,1.2,4746.0
+64,24,Master’s,Sales,Chicago,MNC,3.2,8.0,7345.0
+33,17,Bachelor’s,Sales,Los Angeles,MNC,1.9,5.3,5396.0
+22,6,High School,HR,Los Angeles,MNC,4.4,19.2,4736.0
+52,36,Bachelor’s,Sales,Los Angeles,Startup,2.6,6.8,7730.0
+29,6,Master’s,IT,Chicago,MNC,2.0,8.6,4467.0
+42,4,Bachelor’s,Sales,New York,Startup,4.2,13.5,4844.0
+38,22,High School,Sales,Chicago,Startup,2.4,7.6,5059.0
+53,22,Master’s,HR,New York,MNC,1.4,7.7,5949.0
+40,9,Bachelor’s,Sales,Los Angeles,MNC,3.3,3.6,5211.0
+33,17,Bachelor’s,Sales,New York,Startup,3.3,2.7,6261.0
+56,29,Bachelor’s,Sales,Chicago,Startup,3.9,8.0,7669.0
+62,38,Bachelor’s,Sales,Chicago,MNC,2.0,3.8,7340.0
+59,30,Master’s,IT,Los Angeles,Startup,2.8,9.0,7043.0
+56,17,Bachelor’s,HR,New York,MNC,2.1,0.7,5337.0
+31,15,Bachelor’s,HR,Los Angeles,MNC,1.3,0.6,4806.0
+48,1,Master’s,IT,Los Angeles,Startup,4.5,19.2,5590.0
+22,6,Master’s,Sales,Chicago,Startup,3.9,6.5,5625.0
+52,12,Master’s,IT,New York,MNC,2.2,3.8,5658.0
+40,24,Bachelor’s,Sales,New York,Startup,3.4,7.6,6444.0
+46,11,Bachelor’s,IT,New York,MNC,1.8,6.7,4268.0
+60,38,PhD,HR,New York,MNC,4.6,12.3,9939.0
+28,1,Master’s,HR,Los Angeles,MNC,1.5,1.0,4045.0
+35,19,High School,HR,Los Angeles,Startup,1.0,8.1,4672.0
+64,12,High School,Sales,Chicago,MNC,3.0,8.7,4467.0
+29,13,Bachelor’s,Sales,Los Angeles,MNC,3.3,1.7,5118.0
+26,10,PhD,IT,Los Angeles,MNC,3.3,8.5,6420.0
+27,11,Bachelor’s,IT,Chicago,MNC,1.2,8.8,4438.0
+61,39,Bachelor’s,HR,Chicago,MNC,2.3,5.5,7082.0
+34,18,Bachelor’s,Sales,Chicago,MNC,3.0,6.6,5676.0
+55,33,Master’s,IT,Los Angeles,MNC,1.9,3.8,6963.0
+24,8,Master’s,Sales,Los Angeles,MNC,4.5,8.1,6111.0
+63,34,Bachelor’s,Sales,Chicago,MNC,1.3,7.2,6489.0
+30,5,Master’s,HR,Chicago,MNC,2.9,8.6,4941.0
+57,18,PhD,HR,Chicago,MNC,3.8,6.5,7092.0
+59,29,Bachelor’s,Sales,Los Angeles,Startup,2.0,5.1,6388.0
+26,6,Bachelor’s,Sales,Los Angeles,MNC,3.5,1.6,5071.0
+44,9,Bachelor’s,Sales,New York,MNC,4.3,10.6,5995.0
+19,3,Master’s,Sales,Los Angeles,MNC,1.8,4.5,3728.0
+22,6,Bachelor’s,HR,Los Angeles,Startup,4.7,20.0,4988.0
+46,30,Master’s,IT,Los Angeles,MNC,3.2,5.7,7958.0
+54,27,Master’s,HR,Chicago,Startup,2.2,3.8,6911.0
+55,14,Bachelor’s,IT,Los Angeles,MNC,2.7,7.6,4922.0
+36,20,PhD,Sales,Chicago,MNC,2.2,3.1,6116.0
+25,9,Bachelor’s,IT,New York,Startup,3.9,5.9,4905.0
+65,28,Bachelor’s,HR,New York,MNC,4.2,19.1,7125.0
+62,21,Master’s,HR,Chicago,Startup,4.3,12.4,7307.0
+18,2,Master’s,Sales,Chicago,Startup,4.9,9.2,5216.0
+39,19,Bachelor’s,HR,Chicago,MNC,4.2,16.4,6196.0
+34,18,Master’s,Sales,Los Angeles,MNC,3.4,8.8,6653.0
+24,8,PhD,HR,New York,MNC,2.4,1.5,5834.0
+42,3,Bachelor’s,HR,Chicago,MNC,3.2,7.1,3922.0
+62,26,PhD,Sales,Los Angeles,Startup,1.2,9.7,7198.0
+21,5,Bachelor’s,IT,New York,Startup,4.0,12.9,5105.0
+53,11,Bachelor’s,HR,Los Angeles,MNC,2.8,2.4,5253.0
+23,7,Bachelor’s,IT,New York,Startup,1.1,9.1,3486.0
+48,16,Master’s,HR,Los Angeles,Startup,1.3,0.9,5706.0
+36,9,Master’s,HR,New York,MNC,2.5,4.7,5568.0
+61,0,Bachelor’s,HR,New York,Startup,3.3,8.9,4572.0
+56,21,Bachelor’s,HR,Los Angeles,Startup,2.9,6.4,6115.0
+44,25,Master’s,IT,Chicago,MNC,3.5,4.1,6887.0
+27,11,High School,IT,New York,Startup,2.9,2.9,4522.0
+43,13,Master’s,HR,Chicago,MNC,3.6,3.8,6444.0
+36,20,Master’s,HR,Los Angeles,Startup,1.9,5.1,6233.0
+56,11,Bachelor’s,IT,Chicago,MNC,1.5,3.2,4402.0
+20,4,PhD,Sales,Chicago,Startup,3.4,9.7,5709.0
+62,34,Bachelor’s,Sales,Chicago,Startup,2.9,9.3,7544.0
+30,11,PhD,IT,Chicago,MNC,1.1,8.7,5289.0
+45,6,Master’s,HR,Chicago,MNC,2.5,4.2,4578.0
+37,21,Master’s,HR,New York,MNC,1.4,6.9,5616.0
+45,10,Bachelor’s,Sales,New York,MNC,3.1,9.0,5147.0
+25,9,Master’s,Sales,New York,Startup,2.6,8.5,5467.0
+58,5,Bachelor’s,IT,Los Angeles,Startup,3.5,4.1,4970.0
+56,14,Bachelor’s,Sales,Chicago,Startup,4.2,17.8,6226.0
+18,2,High School,IT,New York,MNC,2.2,0.8,3685.0
+20,4,Bachelor’s,Sales,Los Angeles,Startup,4.8,14.5,5411.0
+30,14,Bachelor’s,Sales,New York,Startup,3.1,6.4,5510.0
+45,25,Master’s,Sales,New York,MNC,3.5,8.5,6950.0
+42,26,Master’s,HR,Chicago,MNC,3.7,2.9,7897.0
+50,33,High School,HR,Los Angeles,Startup,3.7,1.7,6907.0
+55,28,Master’s,HR,Chicago,MNC,3.0,3.8,7279.0
+23,3,Bachelor’s,Sales,Chicago,Startup,2.7,3.5,4537.0
+61,16,Master’s,IT,New York,Startup,1.2,1.3,4877.0
+62,34,Master’s,IT,Chicago,MNC,1.1,6.7,7206.0
+49,12,Bachelor’s,IT,Los Angeles,Startup,2.4,5.1,4522.0
+62,40,Master’s,IT,Chicago,MNC,2.3,7.2,7991.0
+64,38,Bachelor’s,HR,Chicago,MNC,2.6,3.5,7270.0
+38,14,Bachelor’s,HR,Chicago,Startup,1.6,3.3,5044.0
+33,17,Master’s,Sales,New York,Startup,4.0,11.1,6847.0
+38,22,Bachelor’s,Sales,Los Angeles,Startup,4.4,16.4,6458.0
+28,10,Bachelor’s,IT,New York,MNC,4.8,8.2,6104.0
+54,31,Bachelor’s,HR,New York,Startup,3.0,8.0,7064.0
+53,1,Master’s,IT,New York,MNC,3.8,3.7,5279.0
+52,13,Bachelor’s,Sales,New York,MNC,4.4,12.1,5759.0
+36,19,Bachelor’s,Sales,New York,Startup,2.7,8.0,5622.0
+37,21,Master’s,IT,Los Angeles,MNC,2.2,3.5,6672.0
+35,10,Master’s,Sales,Chicago,Startup,4.7,16.6,5944.0
+64,26,Bachelor’s,IT,New York,Startup,3.1,1.6,6274.0
+58,2,Bachelor’s,HR,New York,Startup,3.0,9.0,3740.0
+31,15,Bachelor’s,IT,Los Angeles,Startup,1.7,4.0,5240.0
+32,16,Bachelor’s,HR,Los Angeles,Startup,1.4,4.6,4553.0
+48,28,Bachelor’s,HR,Chicago,Startup,4.4,10.5,7006.0
+18,2,Master’s,Sales,Los Angeles,Startup,3.5,8.2,4920.0
+20,4,Master’s,Sales,Chicago,MNC,2.3,2.4,4777.0
+33,17,Master’s,Sales,New York,Startup,1.8,6.6,5610.0
+40,19,Bachelor’s,IT,New York,MNC,3.2,3.9,6080.0
+28,5,Master’s,IT,Chicago,MNC,3.3,3.7,4718.0
+29,13,Bachelor’s,Sales,Los Angeles,MNC,1.8,6.9,4280.0
+27,4,PhD,IT,Chicago,Startup,4.4,9.0,6141.0
+49,2,Master’s,Sales,Los Angeles,MNC,1.3,3.5,3934.0
+33,0,Bachelor’s,IT,New York,MNC,2.4,8.4,3461.0
+25,9,Master’s,HR,Los Angeles,Startup,3.7,1.0,5338.0
+55,14,Bachelor’s,HR,Chicago,Startup,2.1,6.8,5364.0
+29,13,Master’s,Sales,Chicago,MNC,4.3,8.4,6157.0
+41,25,High School,IT,New York,Startup,4.0,9.4,6212.0
+45,24,Bachelor’s,IT,Los Angeles,Startup,4.2,15.5,7333.0
+25,9,Master’s,HR,Los Angeles,Startup,1.5,6.1,4415.0
+45,11,Bachelor’s,HR,Los Angeles,Startup,1.6,7.1,4811.0
+53,17,Master’s,Sales,New York,MNC,2.1,0.2,5542.0
+43,14,Bachelor’s,HR,Los Angeles,Startup,3.1,0.4,5156.0
+25,9,Master’s,Sales,Chicago,Startup,4.0,14.3,5732.0
+45,26,Master’s,HR,Los Angeles,Startup,4.3,16.0,7326.0
+45,7,Bachelor’s,HR,New York,MNC,3.8,8.9,4887.0
+54,24,Bachelor’s,IT,Los Angeles,MNC,4.7,11.1,6796.0
+58,16,Bachelor’s,HR,Los Angeles,Startup,4.0,11.6,6221.0
+53,28,High School,HR,Chicago,Startup,2.2,3.1,5599.0
+44,7,Bachelor’s,Sales,Los Angeles,MNC,2.1,8.6,4176.0
+34,14,Master’s,HR,Chicago,Startup,3.8,7.0,6009.0
+26,10,PhD,Sales,Chicago,Startup,1.8,4.0,5787.0
+50,6,Master’s,HR,New York,MNC,1.4,0.8,4219.0
+37,2,Master’s,HR,Chicago,Startup,3.1,7.3,4403.0
+30,14,Master’s,Sales,Chicago,Startup,4.3,9.2,6571.0
+45,23,Master’s,IT,New York,MNC,1.4,0.0,5914.0
+65,2,Bachelor’s,Sales,Chicago,MNC,4.2,15.4,4652.0
+46,19,PhD,Sales,New York,Startup,4.2,19.5,7156.0
+30,14,Master’s,Sales,Los Angeles,MNC,2.9,2.6,5610.0
+63,24,Bachelor’s,IT,New York,Startup,1.2,6.4,5076.0
+52,29,Bachelor’s,HR,Chicago,Startup,1.7,4.5,6518.0
+23,7,Bachelor’s,Sales,New York,Startup,3.8,8.6,5582.0
+35,6,Bachelor’s,Sales,Chicago,MNC,3.8,9.2,4987.0
+22,6,Master’s,IT,Los Angeles,MNC,4.6,17.2,5530.0
+64,19,Bachelor’s,Sales,New York,Startup,3.3,1.5,6128.0
+42,26,Bachelor’s,HR,Los Angeles,Startup,1.5,8.6,5804.0
+19,3,PhD,IT,Chicago,MNC,1.5,2.7,4789.0
+27,11,Bachelor’s,HR,Chicago,MNC,3.9,5.9,5212.0
+47,21,Bachelor’s,HR,Los Angeles,MNC,1.7,5.1,4964.0
+62,1,High School,IT,New York,Startup,2.3,0.2,2981.0
+22,6,Master’s,Sales,New York,MNC,2.9,9.3,4744.0
+50,7,PhD,HR,Chicago,MNC,1.1,0.8,5110.0
+18,2,Bachelor’s,HR,Los Angeles,Startup,2.0,6.9,3741.0
+35,12,Master’s,HR,Los Angeles,Startup,2.6,7.9,5358.0
+49,16,Bachelor’s,HR,New York,Startup,2.1,8.0,5499.0
+64,7,PhD,IT,New York,MNC,1.5,1.4,4780.0
+28,12,Master’s,IT,New York,Startup,3.9,4.5,6076.0
+38,17,Master’s,HR,Los Angeles,Startup,4.3,12.3,6846.0
+43,27,High School,Sales,New York,Startup,2.0,3.0,6027.0
+42,17,PhD,HR,New York,Startup,4.1,14.4,7235.0
+39,23,Master’s,Sales,Chicago,MNC,2.5,2.7,6857.0
+44,28,Bachelor’s,HR,New York,Startup,3.0,4.6,6748.0
+30,14,Master’s,Sales,New York,MNC,4.4,12.1,6512.0
+50,10,Bachelor’s,HR,Los Angeles,MNC,4.0,17.7,5329.0
+51,24,Master’s,Sales,Los Angeles,MNC,4.2,12.1,7731.0
+58,32,Bachelor’s,HR,Chicago,Startup,1.5,4.0,6838.0
+52,36,Master’s,HR,New York,MNC,1.3,4.6,7740.0
+18,2,Bachelor’s,Sales,Chicago,Startup,4.6,15.1,4646.0
+38,7,High School,IT,Los Angeles,Startup,2.6,2.8,3758.0
+65,10,Bachelor’s,Sales,Chicago,Startup,2.2,4.4,4391.0
+23,7,High School,IT,Los Angeles,MNC,3.9,6.3,4960.0
+45,23,Bachelor’s,HR,Chicago,Startup,4.3,18.9,6592.0
+34,18,Bachelor’s,Sales,Chicago,Startup,4.4,15.3,6992.0
+22,6,Bachelor’s,Sales,New York,Startup,2.3,3.9,4686.0
+48,11,Bachelor’s,Sales,Chicago,MNC,4.4,14.7,6046.0
+22,6,Bachelor’s,IT,New York,MNC,1.2,9.2,3826.0
+55,14,Master’s,IT,New York,MNC,1.2,5.2,4864.0
+20,4,High School,HR,New York,Startup,3.5,0.1,3739.0
+40,21,PhD,IT,New York,MNC,1.3,0.2,6469.0
+54,27,Master’s,IT,Chicago,Startup,2.3,9.7,6513.0
+54,19,Master’s,HR,Los Angeles,Startup,3.7,2.2,6730.0
+27,11,Bachelor’s,Sales,Los Angeles,MNC,2.3,8.1,4333.0
+27,9,Master’s,Sales,Los Angeles,Startup,1.7,0.6,4326.0
+36,20,Bachelor’s,HR,Chicago,MNC,2.1,9.2,5722.0
+34,18,High School,Sales,New York,Startup,2.8,8.7,5216.0
+38,22,Bachelor’s,IT,Los Angeles,MNC,2.9,5.7,6134.0
+31,1,Master’s,HR,Chicago,Startup,4.1,11.6,5239.0
+26,10,High School,HR,New York,Startup,4.0,16.1,5102.0
+63,32,Bachelor’s,HR,Los Angeles,Startup,2.8,4.1,7198.0
+18,2,PhD,Sales,New York,Startup,4.4,11.3,6181.0
+62,12,Master’s,HR,Los Angeles,Startup,1.5,3.0,4553.0
+30,14,Bachelor’s,HR,Los Angeles,MNC,2.0,0.3,4851.0
+21,5,High School,HR,Los Angeles,Startup,4.3,11.3,4636.0
+18,2,Master’s,Sales,New York,MNC,2.5,5.2,4288.0
+57,25,Bachelor’s,IT,Chicago,MNC,4.9,8.9,7636.0
+49,21,Bachelor’s,HR,New York,MNC,2.9,0.4,6115.0
+51,35,High School,IT,Los Angeles,Startup,4.2,10.9,7999.0
+45,1,PhD,Sales,New York,Startup,2.6,4.8,4877.0
+48,32,Master’s,Sales,Chicago,Startup,2.7,7.6,7772.0
+25,9,Master’s,Sales,New York,MNC,2.5,4.5,5256.0
+56,25,Master’s,Sales,Chicago,Startup,3.9,0.4,7172.0
+43,14,Bachelor’s,IT,Chicago,Startup,3.2,3.1,5008.0
+51,33,Bachelor’s,HR,New York,MNC,4.8,15.0,7752.0
+20,4,Bachelor’s,Sales,Los Angeles,MNC,2.0,8.4,3476.0
+29,10,Bachelor’s,Sales,Chicago,MNC,1.4,6.5,4417.0
+18,2,Bachelor’s,IT,New York,MNC,2.6,2.8,4002.0
+61,5,Master’s,IT,Chicago,MNC,3.5,9.7,5065.0
+22,6,Master’s,Sales,Los Angeles,MNC,4.4,17.9,6113.0
+47,5,Master’s,HR,New York,Startup,2.4,10.0,5021.0
+47,8,Bachelor’s,HR,New York,MNC,3.6,10.0,5441.0
+34,18,Master’s,Sales,New York,Startup,2.4,1.9,6123.0
+65,30,Master’s,IT,Los Angeles,Startup,3.5,3.1,8112.0
+64,31,Bachelor’s,Sales,Chicago,Startup,4.5,14.2,7514.0
+40,24,Master’s,Sales,New York,MNC,1.9,6.6,6128.0
+32,11,Bachelor’s,IT,Chicago,Startup,2.6,5.3,4426.0
+54,7,Bachelor’s,Sales,Chicago,MNC,5.0,9.5,5269.0
+38,7,Bachelor’s,Sales,Los Angeles,MNC,4.5,15.0,5167.0
+31,15,Bachelor’s,Sales,New York,Startup,3.3,2.1,6111.0
+19,3,Bachelor’s,IT,Chicago,MNC,3.1,1.1,4214.0
+28,6,Master’s,HR,New York,Startup,2.1,6.9,4850.0
+56,10,PhD,HR,New York,Startup,3.1,1.6,6394.0
+55,19,Master’s,IT,Los Angeles,MNC,4.4,19.0,7546.0
+51,15,Master’s,HR,New York,Startup,3.7,3.1,6155.0
+55,3,Bachelor’s,Sales,New York,Startup,2.2,3.3,3523.0
+51,5,Master’s,HR,Chicago,Startup,1.8,0.1,3918.0
+35,19,High School,Sales,Los Angeles,MNC,2.1,7.0,4706.0
+47,25,Bachelor’s,HR,New York,Startup,1.7,1.1,5645.0
+32,2,Bachelor’s,IT,Chicago,MNC,1.4,7.7,3827.0
+44,28,Bachelor’s,HR,Los Angeles,MNC,2.7,4.9,6171.0
+51,13,High School,HR,Los Angeles,Startup,1.5,7.8,4429.0
+55,10,Bachelor’s,HR,Chicago,Startup,1.7,5.8,4838.0
+50,17,Bachelor’s,IT,Chicago,MNC,3.2,0.8,5749.0
+41,11,PhD,HR,Chicago,MNC,1.7,7.7,5501.0
+32,16,Bachelor’s,IT,Chicago,Startup,1.3,0.7,4799.0
+47,11,Bachelor’s,Sales,Chicago,Startup,2.3,4.8,4297.0
+59,12,Bachelor’s,HR,New York,MNC,1.9,1.7,4844.0
+34,18,Master’s,IT,New York,MNC,3.1,7.5,6436.0
+22,6,Bachelor’s,IT,Los Angeles,MNC,1.4,9.1,4020.0
+46,30,Bachelor’s,HR,New York,MNC,4.0,18.6,7182.0
+21,5,Bachelor’s,Sales,New York,MNC,4.6,10.3,5234.0
+27,11,High School,IT,New York,Startup,4.0,11.8,4706.0
+34,18,High School,HR,Chicago,MNC,3.1,0.1,5037.0
+27,11,Bachelor’s,Sales,Los Angeles,MNC,4.4,15.7,6075.0
+34,5,High School,IT,Los Angeles,Startup,3.8,2.0,3985.0
+37,17,Bachelor’s,IT,Los Angeles,Startup,1.0,9.8,5035.0
+41,18,Bachelor’s,Sales,Los Angeles,MNC,2.6,7.4,5942.0
+22,6,Master’s,Sales,New York,MNC,4.4,14.4,5755.0
+51,35,Bachelor’s,HR,New York,Startup,2.4,6.6,6836.0
+23,7,Bachelor’s,HR,Chicago,MNC,1.1,4.7,4107.0
+19,3,Bachelor’s,IT,Los Angeles,MNC,4.0,16.9,5197.0
+30,2,PhD,Sales,New York,Startup,4.2,9.4,5635.0
+60,27,Bachelor’s,Sales,New York,MNC,1.6,6.2,6106.0
+60,9,High School,Sales,Chicago,Startup,3.1,6.3,4787.0
+65,34,Master’s,IT,Chicago,Startup,1.8,8.9,7556.0
+28,12,Bachelor’s,Sales,Chicago,Startup,3.9,5.1,5618.0
+64,14,Bachelor’s,Sales,New York,Startup,2.1,0.8,5051.0
+40,24,Bachelor’s,IT,New York,MNC,2.3,3.1,6120.0
+33,6,Master’s,HR,Chicago,Startup,4.4,16.1,5702.0
+48,11,Bachelor’s,HR,Los Angeles,MNC,2.9,2.4,5089.0
+28,12,Master’s,IT,Chicago,MNC,3.7,2.8,5621.0
+33,17,PhD,Sales,Chicago,MNC,2.6,8.2,6781.0
+25,9,Bachelor’s,IT,Chicago,MNC,2.2,5.8,4023.0
+21,5,Bachelor’s,HR,Chicago,MNC,3.5,5.1,4873.0
+57,19,Bachelor’s,HR,New York,Startup,1.6,3.2,5511.0
+21,5,Bachelor’s,IT,Los Angeles,Startup,2.5,7.3,4234.0
+42,3,Bachelor’s,IT,Chicago,Startup,1.8,2.9,3255.0
+20,4,PhD,HR,Los Angeles,Startup,3.8,7.4,6285.0
+49,19,Master’s,IT,Los Angeles,MNC,4.8,19.1,7022.0
+20,4,Master’s,HR,Los Angeles,Startup,5.0,8.2,6031.0
+44,28,Bachelor’s,IT,Chicago,MNC,2.8,5.0,6378.0
+46,30,Master’s,IT,New York,MNC,2.0,4.4,7299.0
+49,33,PhD,IT,Chicago,Startup,2.8,6.1,8133.0
+36,20,Master’s,HR,Los Angeles,Startup,4.4,13.4,7636.0
+38,22,High School,IT,Los Angeles,Startup,1.8,1.3,5049.0
+22,1,Master’s,HR,New York,Startup,4.8,14.8,5792.0
+35,14,High School,HR,Chicago,MNC,2.4,2.8,4983.0
+45,29,Bachelor’s,IT,Los Angeles,MNC,4.9,11.6,7841.0
+59,35,High School,IT,New York,Startup,4.4,13.5,7388.0
+39,5,Master’s,HR,Los Angeles,MNC,4.2,11.4,5677.0
+38,22,Master’s,HR,New York,MNC,2.3,8.1,6659.0
+23,7,Bachelor’s,Sales,New York,MNC,1.0,3.6,4160.0
+18,2,Bachelor’s,HR,Chicago,Startup,2.5,1.0,3869.0
+22,6,Bachelor’s,Sales,Los Angeles,MNC,2.2,9.6,3948.0
+58,39,Bachelor’s,Sales,Chicago,Startup,1.1,6.5,7037.0
+29,13,Bachelor’s,Sales,Los Angeles,Startup,3.0,4.6,5448.0
+43,14,Bachelor’s,IT,Chicago,MNC,2.6,4.0,4863.0
+63,32,Master’s,IT,Los Angeles,MNC,3.5,3.2,8194.0
+51,34,High School,HR,Chicago,Startup,3.5,9.8,6904.0
+31,15,High School,Sales,New York,MNC,1.5,1.3,4225.0
+43,7,Bachelor’s,IT,Los Angeles,MNC,4.9,9.3,5955.0
+62,35,PhD,IT,Los Angeles,Startup,1.7,4.9,7766.0
+44,28,Master’s,IT,New York,Startup,2.8,4.8,6869.0
+26,10,Master’s,IT,Chicago,Startup,3.0,4.7,5316.0
+43,13,Bachelor’s,IT,Los Angeles,Startup,4.3,12.3,5623.0
+64,13,Bachelor’s,Sales,Los Angeles,MNC,1.4,1.4,4469.0
+39,1,High School,Sales,Chicago,MNC,2.7,2.5,3294.0
+64,36,Master’s,Sales,New York,Startup,3.5,9.1,8294.0
+47,4,PhD,Sales,Chicago,Startup,1.9,1.1,4367.0
+60,37,Master’s,HR,Chicago,Startup,3.5,7.6,8019.0
+65,40,Master’s,Sales,Chicago,MNC,4.7,20.0,9187.0
+34,13,Master’s,IT,Los Angeles,Startup,5.0,8.0,6927.0
+43,27,Bachelor’s,Sales,New York,MNC,1.1,8.9,5841.0
+53,24,PhD,HR,New York,Startup,1.9,2.6,6876.0
+18,2,High School,IT,Chicago,Startup,2.2,2.2,3487.0
+25,1,Bachelor’s,Sales,Los Angeles,Startup,2.6,4.7,3855.0
+52,36,Bachelor’s,Sales,Chicago,MNC,2.0,2.7,6868.0
+32,5,High School,Sales,Los Angeles,MNC,1.8,7.3,3530.0
+64,16,Bachelor’s,IT,Los Angeles,MNC,4.8,8.0,6810.0
+39,23,Bachelor’s,IT,Los Angeles,Startup,4.7,18.7,6837.0
+31,15,Bachelor’s,HR,Los Angeles,MNC,1.2,0.8,4668.0
+43,1,Bachelor’s,IT,New York,MNC,2.4,9.2,4010.0
+45,29,High School,IT,Los Angeles,Startup,2.6,2.9,6228.0
+40,24,Bachelor’s,Sales,Los Angeles,Startup,2.0,4.9,5833.0
+31,4,Bachelor’s,IT,Chicago,MNC,3.5,4.4,4437.0
+41,0,Bachelor’s,Sales,Chicago,MNC,3.6,7.6,4717.0
+19,3,Master’s,Sales,New York,MNC,4.4,17.5,5566.0
+62,11,Master’s,IT,Chicago,MNC,4.0,16.2,6098.0
+43,27,Master’s,HR,Los Angeles,Startup,3.2,9.0,7240.0
+31,15,Master’s,HR,Chicago,Startup,3.6,8.7,6580.0
+24,8,Bachelor’s,IT,New York,Startup,2.1,0.7,4152.0
+20,4,Master’s,HR,Chicago,MNC,3.4,8.5,4686.0
+64,9,Bachelor’s,Sales,Chicago,MNC,3.0,7.8,5229.0
+40,2,Bachelor’s,Sales,New York,Startup,1.5,1.0,3387.0
+63,13,Master’s,IT,New York,Startup,2.0,1.1,5340.0
+60,15,Bachelor’s,HR,Los Angeles,MNC,2.2,1.0,4621.0
+64,9,Master’s,HR,Chicago,MNC,4.7,8.2,6582.0
+62,28,Master’s,Sales,Los Angeles,Startup,1.9,5.5,7046.0
+35,9,Master’s,IT,Chicago,Startup,2.2,9.7,5059.0
+55,11,PhD,HR,Chicago,Startup,2.5,4.4,5866.0
+52,29,Bachelor’s,IT,Los Angeles,MNC,3.7,5.4,7511.0
+32,16,Bachelor’s,HR,Chicago,MNC,1.5,9.7,5024.0
+42,0,Bachelor’s,Sales,Chicago,MNC,4.8,8.6,4902.0
+54,4,Bachelor’s,Sales,Chicago,MNC,4.5,10.1,5363.0
+45,19,Master’s,IT,New York,MNC,3.3,5.5,6516.0
+27,7,Master’s,Sales,Los Angeles,MNC,3.7,5.7,5150.0
+56,11,Master’s,HR,New York,Startup,1.1,3.4,4732.0
+34,0,Bachelor’s,Sales,Los Angeles,Startup,2.4,5.6,4141.0
+56,19,Bachelor’s,IT,Los Angeles,MNC,4.2,13.9,6674.0
+39,23,Bachelor’s,IT,Chicago,Startup,1.3,7.6,5634.0
+43,27,Bachelor’s,IT,Los Angeles,MNC,2.1,2.8,5890.0
+61,36,Master’s,HR,New York,Startup,3.3,8.9,7887.0
+42,11,Bachelor’s,HR,New York,MNC,2.0,3.7,4677.0
+34,18,Bachelor’s,HR,New York,Startup,4.7,9.9,6859.0
+30,14,High School,HR,Los Angeles,Startup,1.5,7.0,4489.0
+37,14,Master’s,HR,New York,MNC,4.2,13.0,6227.0
+42,5,Master’s,Sales,Los Angeles,MNC,3.0,7.5,4780.0
+21,5,Bachelor’s,HR,New York,Startup,4.0,16.0,5183.0
+27,11,High School,HR,New York,Startup,2.2,7.8,4527.0
+20,1,Bachelor’s,Sales,Los Angeles,MNC,3.1,0.2,4080.0
+58,8,Bachelor’s,HR,New York,Startup,4.4,16.8,5039.0
+62,36,Master’s,IT,Chicago,MNC,2.9,7.0,8068.0
+35,19,Master’s,HR,Los Angeles,MNC,2.4,8.3,6285.0
+64,25,Bachelor’s,HR,Los Angeles,Startup,3.1,0.6,6712.0
+53,28,Bachelor’s,IT,Los Angeles,MNC,3.9,4.8,6960.0
+64,0,PhD,IT,Chicago,Startup,2.8,5.4,4701.0
+39,23,Bachelor’s,IT,Los Angeles,Startup,4.8,9.1,6785.0
+51,5,Master’s,IT,New York,MNC,2.2,3.2,4496.0
+64,36,Bachelor’s,HR,New York,Startup,2.9,4.4,7302.0
+25,4,Bachelor’s,IT,New York,MNC,4.0,11.4,4932.0
+57,32,High School,IT,Los Angeles,MNC,3.8,9.3,7368.0
+61,13,Bachelor’s,Sales,New York,MNC,4.5,9.4,6440.0
+36,11,PhD,IT,Los Angeles,Startup,5.0,12.7,7514.0
+59,19,Bachelor’s,IT,New York,MNC,2.7,2.5,5630.0
+58,23,High School,Sales,Chicago,Startup,1.4,9.8,4943.0
+54,33,High School,Sales,Chicago,MNC,1.1,9.8,5382.0
+23,7,Bachelor’s,HR,Chicago,MNC,3.9,9.2,4909.0
+43,27,Bachelor’s,Sales,Chicago,MNC,4.5,18.6,7183.0
+51,35,High School,HR,Los Angeles,Startup,1.9,3.3,6464.0
+62,30,Master’s,Sales,New York,Startup,1.6,8.2,7158.0
+23,7,Bachelor’s,Sales,Chicago,MNC,1.2,4.1,3607.0
+54,37,Bachelor’s,HR,Los Angeles,MNC,4.3,13.5,8588.0
+50,19,PhD,Sales,Chicago,Startup,2.2,7.4,6795.0
+39,22,Bachelor’s,HR,Chicago,Startup,2.6,0.8,5569.0
+38,15,PhD,Sales,Los Angeles,Startup,3.0,0.5,6453.0
+23,7,Bachelor’s,IT,Los Angeles,MNC,4.4,12.1,5338.0
+23,7,Master’s,Sales,New York,Startup,3.6,4.5,5824.0
+65,0,Master’s,HR,New York,MNC,3.5,9.0,4613.0
+21,5,Master’s,Sales,Chicago,Startup,1.7,1.3,4832.0
+47,28,PhD,HR,Chicago,MNC,3.1,1.2,8115.0
+28,12,Bachelor’s,HR,New York,MNC,3.9,1.5,5630.0
+47,31,PhD,IT,New York,MNC,4.9,18.0,8693.0
+48,4,Bachelor’s,IT,Los Angeles,Startup,1.8,0.7,3323.0
+41,21,Bachelor’s,HR,New York,Startup,1.0,6.6,5564.0
+26,10,Bachelor’s,Sales,New York,Startup,1.3,4.3,4074.0
+20,0,Bachelor’s,HR,Chicago,MNC,2.5,7.6,3995.0
+48,25,Bachelor’s,HR,New York,MNC,4.3,18.2,7494.0
+57,9,Bachelor’s,Sales,Chicago,Startup,1.0,6.6,3574.0
+54,29,Bachelor’s,Sales,New York,MNC,2.8,0.5,7143.0
+53,17,Master’s,Sales,Los Angeles,MNC,2.3,1.0,5674.0
+41,16,Master’s,Sales,New York,MNC,1.2,8.8,5568.0
+48,25,Bachelor’s,HR,New York,Startup,2.8,5.3,6570.0
+23,7,Bachelor’s,HR,New York,MNC,2.0,8.2,4559.0
+19,3,Bachelor’s,IT,Chicago,Startup,2.4,8.6,3847.0
+37,11,Bachelor’s,HR,Los Angeles,Startup,3.8,9.3,5797.0
+45,26,High School,Sales,New York,Startup,3.1,9.5,5667.0
+28,7,Bachelor’s,IT,Chicago,Startup,1.5,5.5,3493.0
+21,5,Bachelor’s,Sales,Los Angeles,Startup,4.8,11.6,5054.0
+32,3,PhD,HR,Chicago,MNC,3.5,9.6,5916.0
+23,7,Bachelor’s,IT,Chicago,Startup,4.1,19.6,5671.0
+47,0,Bachelor’s,Sales,Los Angeles,Startup,1.3,0.6,3026.0
+55,18,Bachelor’s,IT,New York,Startup,1.2,6.4,5142.0
+19,3,Bachelor’s,IT,Chicago,MNC,1.1,5.9,3732.0
+32,15,Bachelor’s,HR,Chicago,MNC,1.8,9.0,5227.0
+28,12,Master’s,Sales,New York,MNC,2.7,6.5,5451.0
+25,4,Bachelor’s,IT,New York,MNC,4.7,16.4,4974.0
+43,27,Bachelor’s,IT,Los Angeles,Startup,2.8,9.7,6316.0
+62,25,PhD,Sales,Los Angeles,Startup,2.2,8.0,7167.0
+61,27,Master’s,IT,Los Angeles,MNC,3.2,6.3,6830.0
+22,1,Master’s,IT,New York,MNC,1.4,2.9,4168.0
+23,5,Bachelor’s,IT,Chicago,MNC,3.4,3.7,4258.0
+43,8,Master’s,Sales,Chicago,MNC,3.3,6.7,5841.0
+21,5,Bachelor’s,Sales,Los Angeles,Startup,4.2,14.8,5497.0
+36,20,Bachelor’s,Sales,New York,MNC,4.9,14.0,6802.0
+37,21,High School,Sales,Chicago,MNC,2.0,7.1,5534.0
