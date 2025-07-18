@@ -233,4 +233,5 @@ It is optimized for datasets of **\~1000–5000 records** and deployed on **Stre
 5. Open a pull request
 
 ---
+## 🔗 Live Link: https://salary-prediction-ml-lthstozqbskjffj7mnfm6d.streamlit.app/
 
